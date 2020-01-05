@@ -8,9 +8,9 @@
 
 ## 涉及的改动
 
-1. 所有scpt文件中的 com.evernote.Evernote 改为 com.yinxiang.Mac
-2. bundleid 由 ...alfred 3... 改为 ....alfred...
-3. 环境变量中的 alfred_workflow_data 写死成绝对路径
+1.所有scpt文件中的 com.evernote.Evernote 改为 com.yinxiang.Mac
+2.bundleid 由 com.runningwithcrayons.Alfred3 改为 com.runningwithcrayons.Alfred3
+3.workflow.scpt 中的 my_data 写死成绝对路径
 
 ## 使用环境
 
